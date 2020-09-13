@@ -3,29 +3,29 @@
         {
             "_productId": "our-product-1",
             "name": "SHOE 1",
-            "price": 99,
+            "price": 93,
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean venenatis nisi ut aliquet bibendum. Proin eget pulvinar sapien, non placerat enim. In iaculis in mauris in pretium. Vestibulum iaculis, sapien a rutrum molestie",
             "image":
                 "/assets/images/shoe-1.jpg",
-            "avalableSizes": ["small", "mediam"]
+            "availableSizes": ["small"]
         },
         {
             "_productId": "our-product-2",
             "name": "SHOE 2",
-            "price": 99,
+            "price": 73,
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean venenatis nisi ut aliquet bibendum. Proin eget pulvinar sapien, non placerat enim. In iaculis in mauris in pretium. Vestibulum iaculis, sapien a rutrum molestie",
             "image":
                 "/assets/images/shoe-2.jpg",
-            "colors": ["small", "mediam"]
+            "availableSizes": ["small", "medium"]
         },
         {
             "_productId": "our-product-3",
             "name": "SHOE 3",
-            "price": 99,
+            "price": 88,
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean venenatis nisi ut aliquet bibendum. Proin eget pulvinar sapien, non placerat enim. In iaculis in mauris in pretium. Vestibulum iaculis, sapien a rutrum molestie",
             "image":
                 "/assets/images/shoe-3.jpg",
-                "avalableSizes": ["small", "mediam"]
+                "availableSizes": ["small", "medium"]
         },
 
         
@@ -33,11 +33,11 @@
         {
             "_productId": "our-product-4",
             "name": "SHOE 4",
-            "price": 99,
+            "price": 56,
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean venenatis nisi ut aliquet bibendum. Proin eget pulvinar sapien, non placerat enim. In iaculis in mauris in pretium. Vestibulum iaculis, sapien a rutrum molestie",
             "image":
                 "/assets/images/shoe-4.jpg",
-                "avalableSizes": ["small", "mediam"]
+                "availableSizes": ["small", "medium"]
             
         },
 
@@ -48,17 +48,17 @@
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean venenatis nisi ut aliquet bibendum. Proin eget pulvinar sapien, non placerat enim. In iaculis in mauris in pretium. Vestibulum iaculis, sapien a rutrum molestie",
             "image":
                 "/assets/images/shoe-5.jpg",
-                "avalableSizes": ["small", "mediam"]
+                "availableSizes": ["small", "medium"]
             
         },
         {
             "_productId": "our-product-6",
             "name": "SHOE 6",
-            "price": 99,
+            "price": 87,
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean venenatis nisi ut aliquet bibendum. Proin eget pulvinar sapien, non placerat enim. In iaculis in mauris in pretium. Vestibulum iaculis, sapien a rutrum molestie",
             "image":
                 "/assets/images/shoe-6.jpg",
-                "avalableSizes": ["small", "mediam"]
+                "availableSizes": ["small", "medium"]
             
         }
 
