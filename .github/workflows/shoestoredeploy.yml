@@ -39,4 +39,4 @@ jobs:
       run: npm install --global surge
       
     - name: deploy to surge
-      run: surge ./build shoe-store-react.surge.sh --token ${{ secrets.SURGE_TOKEN }}
+      run: surge ./build shoe-store-by-sohail.surge.sh --token ${{ secrets.SURGE_TOKEN }}
