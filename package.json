@@ -15,7 +15,8 @@
     "react-modal": "^3.11.2",
     "react-reveal": "^1.2.2",
     "react-scripts": "3.4.3",
-    "shortid": "^2.2.15"
+    "shortid": "^2.2.15",
+    "surge": "^0.21.6"
   },
   "scripts": {
     "server": "nodemon server.js",
